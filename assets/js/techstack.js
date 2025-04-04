@@ -55,7 +55,7 @@ const techStack = [
     langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>",
   },
   {
-    langImage: "assets/images/techstack-page/VScode.jpeg",
+    langImage: "assets/images/techstack-page/VSCode.jpeg",
     langName:"VS Code",
     langDesc:"<li>Visual Studio Code is a lightweight yet powerful code editor, offering versatile tools for programming, debugging, and seamless collaboration.</li>",
   },
